@@ -8,7 +8,7 @@ Estou imerso no universo do Desenvolvimento Web, concentrando meus estudos nas Ã
 
 ## ðŸ”— Conecte-se comigo
 
-[![Site](https://img.shields.io/badge/Portfolio-374151?style=for-the-badge&logo=todoist&logoColor=white)](https://www.fmota.dev.br/)
+[![Site](https://img.shields.io/badge/Site-374151?style=for-the-badge&logo=todoist&logoColor=white)](https://www.fmota.dev.br/)
 [![linkedin](https://img.shields.io/badge/linkedin-374151?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmota-dev/)
 [![E-mail](https://img.shields.io/badge/-Email-374151?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fmota.web@gmail.com)
 
