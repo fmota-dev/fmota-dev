@@ -1,10 +1,13 @@
-# Olá, eu me chamo Filipe Mota! 👋
+# import Desenvolvedor from "fmota";! 👋
 
 ## 🚀 Sobre mim
 
-Tenho 21 anos e atualmente moro em Natal/RN.
-
-Estou imerso no universo do Desenvolvimento Web, concentrando meus estudos nas áreas de Desenvolvimento front-end, back-end e Mobile. Além de me especializar em UX/UI Designer.
+class SobreMim extends Desenvolvedor {
+  nome = "Filipe Mota";
+  sobre = "Estou imerso no universo do Desenvolvimento Web, concentrando meus estudos nas áreas de Desenvolvimento front-end, back-end e Mobile. Além de me especializar em UX/UI Designer.";
+  area = "Desenvolvimento Web";
+  local = "Natal/RN";
+}
 
 ## 🔗 Conecte-se comigo
 
