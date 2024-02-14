@@ -1,6 +1,7 @@
-# import Desenvolvedor from "fmota";! 👋
-
 ## 🚀 Sobre mim
+
+```js
+import Desenvolvedor from "fmota";
 
 class SobreMim extends Desenvolvedor {
   nome = "Filipe Mota";
@@ -8,6 +9,8 @@ class SobreMim extends Desenvolvedor {
   area = "Desenvolvimento Web";
   local = "Natal/RN";
 }
+
+```
 
 ## 🔗 Conecte-se comigo
 
