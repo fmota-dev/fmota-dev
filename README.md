@@ -5,8 +5,8 @@ import Desenvolvedor from "fmota";
 
 class SobreMim extends Desenvolvedor {
   nome = "Filipe Mota";
-  sobre = "Estou imerso no universo do Desenvolvimento Web, concentrando meus estudos nas áreas de Desenvolvimento front-end, back-end e Mobile. Além de me especializar em UX/UI Designer.";
-  area = "Desenvolvimento Web";
+  sobre = "Tenho 21 anos e sou estudante de Desenvolvimento Web.";
+  area = "Desenvolvedor";
   local = "Natal/RN";
 }
 
