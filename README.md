@@ -5,13 +5,22 @@ import Desenvolvedor from "fmota";
 
 class SobreMim extends Desenvolvedor {
   nome = "Filipe Mota";
-  sobre = "Tenho 21 anos e sou estudante de Desenvolvimento Web.";
-  area = "Desenvolvedor";
+  sobre = "Atualmente busco aprimorar minhas habilidades para criar websites e aplicações web inovadoras e eficientes.";
+  area = "Desenvolvimento Web";
   local = "Natal/RN";
+  
+  habilidades() {
+  console.log(`
+    * Apaixonado por tecnologia
+    * Criativo e proativo
+    * Aberto a novos desafios e oportunidades
+    * Foco em soluções inovadoras e eficientes
+  `);
 }
 
-```
 
+
+```
 ## 🔗 Conecte-se comigo
 
 [![Site](https://img.shields.io/badge/Site-374151?style=for-the-badge&logo=todoist&logoColor=white)](https://www.fmota.dev.br/)
