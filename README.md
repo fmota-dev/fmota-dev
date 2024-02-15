@@ -10,12 +10,12 @@ class SobreMim extends Desenvolvedor {
   local = "Natal/RN";
   
   habilidades() {
-  console.log(`
-    * Apaixonado por tecnologia
-    * Criativo e proativo
-    * Aberto a novos desafios e oportunidades
-    * Foco em soluções inovadoras e eficientes
-  `);
+    console.log(`
+      * Apaixonado por tecnologia
+      * Criativo e proativo
+      * Aberto a novos desafios e oportunidades
+      * Foco em soluções inovadoras e eficientes
+    `);
 }
 
 
