@@ -36,6 +36,6 @@ class SobreMim extends Desenvolvedor {
 [![Git](https://img.shields.io/badge/Git-374151?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-374151?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-## Linguagens que mais tenho utilizado
+## 🔥Linguagens que mais tenho utilizado
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fmota-dev&bg_color=374151&border_color=9ca3af&title_color=fff&text_color=FFF)
