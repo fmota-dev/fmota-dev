@@ -1,7 +1,7 @@
 ## 🚀 Sobre mim
 
 ```js
-import Desenvolvedor from "fmota";
+import { Desenvolvedor } from "fmota";
 
 class SobreMim extends Desenvolvedor {
   nome = "Filipe Mota";
