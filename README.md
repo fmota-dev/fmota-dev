@@ -1,22 +1,40 @@
 ## 🚀 Sobre mim
 
-```js
-import { Desenvolvedor } from "fmota";
+```python
+# sobre_mim.py
 
-class SobreMim extends Desenvolvedor {
-  nome = "Filipe Mota";
-  sobre = "Atualmente busco aprimorar minhas habilidades para criar websites e aplicações web inovadoras e eficientes.";
-  area = "Desenvolvimento Web";
-  local = "Natal/RN";
-  
-  habilidades() {
-    console.log(`
-      * Apaixonado por tecnologia
-      * Criativo e proativo
-      * Aberto a novos desafios e oportunidades
-      * Foco em soluções inovadoras e eficientes
-    `);
-}
+class Desenvolvedor:
+    pass  # Classe base para representação de um desenvolvedor
+
+
+class SobreMim(Desenvolvedor):
+    def __init__(self):
+        self.nome = "Filipe Mota"
+        self.sobre = (
+            "Atualmente trabalho com análise de dados e automações"
+        )
+        self.area = "Desenvolvimento"
+        self.local = "Natal/RN"
+
+    def habilidades(self):
+        print("""
+        * Apaixonado por tecnologia
+        * Criativo e proativo
+        * Aberto a novos desafios e oportunidades
+        * Foco em soluções inovadoras e eficientes
+        """)
+
+
+# Instância da classe para apresentação
+if __name__ == "__main__":
+    eu = SobreMim()
+    print(f"Olá! Me chamo {eu.nome} 👋")
+    print(f"📍 Localização: {eu.local}")
+    print(f"💼 Área: {eu.area}\n")
+    print(f"🧠 Sobre mim: {eu.sobre}\n")
+    print("🚀 Minhas principais características:")
+    eu.habilidades()
+
 
 
 
