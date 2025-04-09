@@ -50,6 +50,8 @@ if __name__ == "__main__":
 ![HTML5](https://img.shields.io/badge/HTML5-374151?style=for-the-badge&logo=html5&logoColor=)
 ![CSS3](https://img.shields.io/badge/CSS3-374151?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-374151?style=for-the-badge&logo=javascript&logoColor=)
+![Python](https://img.shields.io/badge/Python-374151?style=for-the-badge&logo=python&logoColor=yellow)
+![SQL](https://img.shields.io/badge/SQL-374151?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-374151?style=for-the-badge&logo=figma&logoColor=purple)
 [![Git](https://img.shields.io/badge/Git-374151?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-374151?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
